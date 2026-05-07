@@ -198,9 +198,9 @@ jupyter>=1.0.0
 
 ## 🙋 Author
 
-**Your Name**  
+**Sangita Kar**  
 Data Analyst | Python · SQL · Power BI · Machine Learning  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/sangitakar/) · [GitHub](https://github.com/sangitakar798)
 
 ---
 
