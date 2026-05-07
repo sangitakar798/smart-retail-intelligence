@@ -1,0 +1,201 @@
+product_id,name,category,subcategory,brand,cost_price,sell_price,margin_pct,is_active
+PROD0001,KreateX Nam Electronics,Electronics,Consectetur,Aura,3038.05,4321.28,42.2,1
+PROD0002,Bryte Architecto Electronics,Electronics,Quod,KreateX,34842.38,50293.82,44.3,1
+PROD0003,Optix Officia Electronics,Electronics,Aperiam,Solus,38126.97,49712.42,30.4,1
+PROD0004,ZenBrand Quaerat Electronics,Electronics,Ea,KreateX,18372.2,25591.73,39.3,1
+PROD0005,ZenBrand Molestias Electronics,Electronics,Sequi,Lumio,29448.51,40289.58,36.8,1
+PROD0006,Optix Praesentium Electronics,Electronics,Cumque,Solus,44360.26,69356.89,56.3,1
+PROD0007,Solus Quae Electronics,Electronics,Dolore,Optix,20858.55,27829.19,33.4,1
+PROD0008,Optix Eligendi Electronics,Electronics,Modi,Vega,41304.35,57369.56,38.9,1
+PROD0009,ZenBrand Amet Electronics,Electronics,Consequuntur,Bryte,18342.49,27237.58,48.5,1
+PROD0010,Bryte Accusantium Electronics,Electronics,Porro,Aura,25477.64,32892.86,29.1,1
+PROD0011,KreateX Cupiditate Electronics,Electronics,Dolor,ZenBrand,43371.03,58607.44,35.1,1
+PROD0012,Trex Nam Electronics,Electronics,Consequuntur,Nova,22597.88,33141.38,46.7,1
+PROD0013,Trex Libero Electronics,Electronics,Tenetur,Nova,32419.63,40791.56,25.8,1
+PROD0014,ZenBrand Quod Electronics,Electronics,Est,Nova,5426.55,7928.83,46.1,1
+PROD0015,KreateX Quos Electronics,Electronics,Veritatis,Bryte,49601.16,67106.58,35.3,1
+PROD0016,Aura Ratione Electronics,Electronics,Suscipit,Bryte,30321.26,43331.31,42.9,1
+PROD0017,Aura Ducimus Electronics,Electronics,Voluptatibus,Aura,5115.94,8120.73,58.7,1
+PROD0018,ZenBrand Commodi Electronics,Electronics,Possimus,Lumio,29913.97,43707.38,46.1,1
+PROD0019,Bryte Vel Electronics,Electronics,Suscipit,Bryte,14157.17,21504.79,51.9,1
+PROD0020,Bryte Nostrum Electronics,Electronics,Voluptatum,KreateX,31452.84,47540.26,51.1,1
+PROD0021,ZenBrand Fuga Electronics,Electronics,Quibusdam,Solus,11009.53,14232.05,29.3,0
+PROD0022,Trex Facilis Electronics,Electronics,Necessitatibus,Solus,9579.89,13967,45.8,1
+PROD0023,ZenBrand Perferendis Electronics,Electronics,Eligendi,Optix,1176.28,1503.94,27.9,1
+PROD0024,Optix Itaque Electronics,Electronics,Numquam,Trex,38983.05,57909.18,48.5,1
+PROD0025,ZenBrand Fuga Electronics,Electronics,Delectus,KreateX,31852.88,48796.51,53.2,1
+PROD0026,Bryte Dignissimos Electronics,Electronics,Eos,KreateX,28413.02,40491.32,42.5,1
+PROD0027,Lumio Esse Electronics,Electronics,Voluptas,Trex,17376.45,27299.16,57.1,1
+PROD0028,Optix Dolor Electronics,Electronics,Dicta,Trex,49575.95,74581.74,50.4,1
+PROD0029,ZenBrand Dolorem Electronics,Electronics,Quaerat,Lumio,33978.87,50556.2,48.8,1
+PROD0030,KreateX Ad Electronics,Electronics,Tempora,Optix,554.05,745.3,34.5,1
+PROD0031,Lumio Corrupti Electronics,Electronics,Sequi,Nova,6823.85,9586.34,40.5,1
+PROD0032,Nova Illum Electronics,Electronics,Explicabo,Solus,28049.63,38426.75,37,1
+PROD0033,Optix Dolor Electronics,Electronics,Laborum,Vega,25198.07,34304.44,36.1,1
+PROD0034,Nova Ratione Electronics,Electronics,Velit,KreateX,39100.13,50492.99,29.1,1
+PROD0035,Lumio Recusandae Electronics,Electronics,Dolor,Vega,18150.51,24304.78,33.9,1
+PROD0036,KreateX Vel Electronics,Electronics,Vitae,Solus,44772.02,68871.11,53.8,1
+PROD0037,ZenBrand Suscipit Electronics,Electronics,Ea,KreateX,40705.78,56353.69,38.4,1
+PROD0038,Optix Dolorum Electronics,Electronics,Libero,Vega,12393.81,15904.21,28.3,1
+PROD0039,Lumio Necessitatibus Electronics,Electronics,Aspernatur,Bryte,41570.28,66174.82,59.2,1
+PROD0040,Bryte Minus Electronics,Electronics,Ducimus,KreateX,44619.25,63017.33,41.2,1
+PROD0041,Lumio Sit Clothing,Clothing,Labore,Trex,2131.98,3166.8,48.5,1
+PROD0042,Aura Error Clothing,Clothing,Minima,KreateX,838.41,1233.59,47.1,1
+PROD0043,Solus Ullam Clothing,Clothing,Architecto,Vega,3527.43,5274.26,49.5,1
+PROD0044,Solus Molestias Clothing,Clothing,Exercitationem,Lumio,2598.8,3912.72,50.6,1
+PROD0045,Aura Tempora Clothing,Clothing,Perferendis,Trex,2560.86,3914.99,52.9,1
+PROD0046,Bryte Exercitationem Clothing,Clothing,Atque,Vega,4823.7,6212.04,28.8,1
+PROD0047,Aura Tenetur Clothing,Clothing,Cum,Vega,2797.6,3581.24,28,0
+PROD0048,Bryte Quibusdam Clothing,Clothing,Aspernatur,Bryte,2474.99,3151.51,27.3,1
+PROD0049,Lumio Fugit Clothing,Clothing,Nam,Optix,398.58,567.72,42.4,1
+PROD0050,Trex Vitae Clothing,Clothing,Porro,Trex,3144.46,4918.81,56.4,1
+PROD0051,Vega Harum Clothing,Clothing,Corporis,Optix,3704.06,5103.04,37.8,1
+PROD0052,Aura Ex Clothing,Clothing,Ab,KreateX,3567.34,5153.96,44.5,1
+PROD0053,Solus Placeat Clothing,Clothing,Velit,Lumio,3714.46,5844.47,57.3,1
+PROD0054,Nova Ipsam Clothing,Clothing,Eum,Vega,4838.43,7111.73,47,1
+PROD0055,Vega Ratione Clothing,Clothing,Inventore,Vega,2177.94,3434.95,57.7,1
+PROD0056,Solus Cupiditate Clothing,Clothing,Ullam,Lumio,2981.71,4087.83,37.1,1
+PROD0057,Aura Ratione Clothing,Clothing,Iste,Nova,567.27,742.06,30.8,1
+PROD0058,Trex Distinctio Clothing,Clothing,Accusantium,Solus,746.87,1179.58,57.9,1
+PROD0059,Lumio Unde Clothing,Clothing,Aut,Optix,2057.92,3047.56,48.1,1
+PROD0060,Vega Est Clothing,Clothing,Molestiae,Lumio,2384.84,3327.41,39.5,1
+PROD0061,Solus Doloribus Clothing,Clothing,Natus,Vega,1147.67,1507.1,31.3,1
+PROD0062,Nova Ut Clothing,Clothing,Aspernatur,Nova,732.8,1138.67,55.4,1
+PROD0063,Optix Quaerat Clothing,Clothing,Illo,Lumio,3441.98,4348.36,26.3,1
+PROD0064,Solus Ut Clothing,Clothing,Natus,Aura,2850.36,4156.77,45.8,1
+PROD0065,Optix Eum Clothing,Clothing,Rem,Solus,1419.45,1921.1,35.3,1
+PROD0066,Optix Pariatur Clothing,Clothing,Unde,KreateX,1621.36,2108.12,30,1
+PROD0067,Vega Maiores Clothing,Clothing,Molestiae,Solus,4708.93,7130.72,51.4,1
+PROD0068,Optix At Clothing,Clothing,Ipsam,ZenBrand,583.9,827.32,41.7,1
+PROD0069,Bryte Harum Clothing,Clothing,Pariatur,Bryte,1135.95,1689.69,48.7,0
+PROD0070,Trex Aperiam Clothing,Clothing,Magni,Trex,1049.34,1576.87,50.3,1
+PROD0071,KreateX Ipsum Clothing,Clothing,Explicabo,Solus,2677.16,3890.52,45.3,1
+PROD0072,Vega Reiciendis Clothing,Clothing,Aut,Solus,914.88,1395.26,52.5,1
+PROD0073,KreateX Doloribus Clothing,Clothing,Sunt,ZenBrand,260.95,346.89,32.9,1
+PROD0074,Aura Unde Clothing,Clothing,Atque,Vega,2027.57,2573.18,26.9,0
+PROD0075,Nova Maxime Clothing,Clothing,Commodi,Bryte,2038.43,2702.38,32.6,1
+PROD0076,ZenBrand Nobis Clothing,Clothing,Fugiat,Trex,1156.18,1552.25,34.3,1
+PROD0077,Solus Aut Clothing,Clothing,Autem,Vega,4163.48,6124.52,47.1,1
+PROD0078,Vega Recusandae Clothing,Clothing,Veniam,Aura,2186.88,3466.82,58.5,1
+PROD0079,KreateX Laboriosam Clothing,Clothing,Iure,Vega,2942.72,3868.77,31.5,1
+PROD0080,Vega Nobis Clothing,Clothing,Fugit,Bryte,1559.15,2405.82,54.3,1
+PROD0081,Aura Ad Clothing,Clothing,Reiciendis,Bryte,2319.8,3032.39,30.7,1
+PROD0082,Lumio Velit Clothing,Clothing,Consectetur,Aura,2055.19,2605.78,26.8,1
+PROD0083,Optix Repellat Clothing,Clothing,Minus,Aura,1497.98,1974.27,31.8,1
+PROD0084,Aura Rerum Clothing,Clothing,Error,Solus,540.55,784.26,45.1,1
+PROD0085,Vega Rerum Clothing,Clothing,Iste,Lumio,4806,6089.41,26.7,1
+PROD0086,Nova Odio Clothing,Clothing,Quo,Bryte,4532.27,6497.98,43.4,0
+PROD0087,Solus Praesentium Clothing,Clothing,Magnam,ZenBrand,4241.39,5742.05,35.4,1
+PROD0088,Solus Ea Clothing,Clothing,Assumenda,Optix,808.33,1045.29,29.3,1
+PROD0089,Solus Perferendis Clothing,Clothing,A,ZenBrand,4948.63,7371.03,49,0
+PROD0090,Solus Deserunt Clothing,Clothing,Ad,Aura,636.48,859.29,35,1
+PROD0091,Optix Explicabo Home,Home & Kitchen,Dolores,Nova,7682.12,10714.93,39.5,1
+PROD0092,Bryte Nostrum Home,Home & Kitchen,Dolore,Trex,9885.55,12500.28,26.4,1
+PROD0093,KreateX Vel Home,Home & Kitchen,Accusantium,Solus,9634.27,12429.79,29,1
+PROD0094,Bryte Aut Home,Home & Kitchen,Soluta,Vega,6212.54,8217.48,32.3,1
+PROD0095,ZenBrand Totam Home,Home & Kitchen,Praesentium,Solus,3385.67,5158.31,52.4,1
+PROD0096,Bryte Consequatur Home,Home & Kitchen,Deleniti,Lumio,8452.17,11526.42,36.4,1
+PROD0097,Vega Ut Home,Home & Kitchen,Commodi,Lumio,4948.72,7278.34,47.1,1
+PROD0098,Vega Distinctio Home,Home & Kitchen,Inventore,Nova,8010.66,10950.31,36.7,1
+PROD0099,Nova Aut Home,Home & Kitchen,Eligendi,KreateX,8060.24,12519.55,55.3,1
+PROD0100,Lumio Rem Home,Home & Kitchen,Exercitationem,Vega,1484.88,2072.2,39.6,1
+PROD0101,Aura Non Home,Home & Kitchen,Sit,Trex,684.85,1007.74,47.1,1
+PROD0102,Trex Necessitatibus Home,Home & Kitchen,Officiis,KreateX,9496.8,14794.69,55.8,0
+PROD0103,Vega Quibusdam Home,Home & Kitchen,Reiciendis,Vega,2161.32,2970.53,37.4,1
+PROD0104,Nova Tenetur Home,Home & Kitchen,Odit,KreateX,9391.78,12889.74,37.2,1
+PROD0105,ZenBrand Necessitatibus Home,Home & Kitchen,Amet,Trex,5578.37,8086.41,45,1
+PROD0106,ZenBrand Recusandae Home,Home & Kitchen,Quasi,Optix,348.47,478.86,37.4,1
+PROD0107,Solus Pariatur Home,Home & Kitchen,Esse,KreateX,3371.55,5093.26,51.1,1
+PROD0108,Vega Aut Home,Home & Kitchen,Doloremque,Optix,6139.07,8722.77,42.1,1
+PROD0109,Solus Nobis Home,Home & Kitchen,Porro,ZenBrand,4248.08,6201.15,46,1
+PROD0110,Solus Perspiciatis Home,Home & Kitchen,Eveniet,Lumio,163,232.06,42.4,1
+PROD0111,Aura Beatae Home,Home & Kitchen,Sed,Vega,3254.03,4186.75,28.7,1
+PROD0112,Nova Ea Home,Home & Kitchen,Delectus,Optix,701.93,885.01,26.1,1
+PROD0113,Optix Nulla Home,Home & Kitchen,Totam,Solus,5260.63,8226.58,56.4,1
+PROD0114,Solus Molestias Home,Home & Kitchen,Veniam,ZenBrand,8629.48,12529.93,45.2,1
+PROD0115,Lumio Aliquam Home,Home & Kitchen,Officia,Aura,8102.11,11862.11,46.4,1
+PROD0116,Trex Labore Home,Home & Kitchen,Voluptatem,Vega,3340.47,4368.06,30.8,1
+PROD0117,KreateX Repellat Home,Home & Kitchen,Quia,Bryte,4415.35,6437.22,45.8,1
+PROD0118,Bryte Quibusdam Home,Home & Kitchen,Soluta,Bryte,8331.25,10931.14,31.2,1
+PROD0119,Optix Pariatur Home,Home & Kitchen,Totam,Solus,2217.55,2991.81,34.9,1
+PROD0120,Solus Quisquam Home,Home & Kitchen,Nihil,Bryte,3934.77,6107.62,55.2,0
+PROD0121,Optix Libero Home,Home & Kitchen,Ex,KreateX,298.36,389.01,30.4,1
+PROD0122,ZenBrand Tempore Home,Home & Kitchen,Eos,Optix,5688.45,8430.62,48.2,0
+PROD0123,Trex Suscipit Home,Home & Kitchen,Vitae,Aura,7228.56,9762.37,35.1,1
+PROD0124,KreateX Rem Home,Home & Kitchen,Voluptatem,Aura,2386.7,3733,56.4,0
+PROD0125,KreateX Voluptate Home,Home & Kitchen,Ipsa,Bryte,342.72,453.52,32.3,0
+PROD0126,Lumio Eligendi Home,Home & Kitchen,Cum,Trex,497.86,711.58,42.9,0
+PROD0127,KreateX Sed Home,Home & Kitchen,Consectetur,Vega,6240.68,9556.44,53.1,1
+PROD0128,Solus Suscipit Home,Home & Kitchen,Modi,ZenBrand,3801.08,5930.45,56,1
+PROD0129,Solus Iure Home,Home & Kitchen,Ipsa,Bryte,638.21,838.52,31.4,1
+PROD0130,Bryte Eaque Home,Home & Kitchen,Aliquam,Aura,2146.5,3062.11,42.7,1
+PROD0131,Aura Quam Beauty,Beauty,Veniam,Lumio,1970.13,2976.52,51.1,1
+PROD0132,Trex Repellendus Beauty,Beauty,Tempore,Solus,879.57,1160.61,32,1
+PROD0133,Vega Iusto Beauty,Beauty,Ducimus,Nova,2277.71,3562.22,56.4,1
+PROD0134,Nova Eveniet Beauty,Beauty,Cupiditate,Solus,1959.55,2466.97,25.9,0
+PROD0135,ZenBrand Dignissimos Beauty,Beauty,Aperiam,Optix,874.5,1341.78,53.4,1
+PROD0136,Vega Dolore Beauty,Beauty,Cumque,Bryte,1682.18,2648.04,57.4,1
+PROD0137,Vega Repudiandae Beauty,Beauty,Atque,Lumio,524.42,782.23,49.2,1
+PROD0138,Trex Libero Beauty,Beauty,Alias,Bryte,1060.69,1511.7,42.5,1
+PROD0139,Lumio Laudantium Beauty,Beauty,Placeat,Aura,986.54,1255.16,27.2,0
+PROD0140,Trex Minus Beauty,Beauty,Fugit,Aura,1052.59,1559.74,48.2,0
+PROD0141,Solus Id Beauty,Beauty,Recusandae,Nova,1006.47,1560.51,55,1
+PROD0142,Aura Tempore Beauty,Beauty,Odit,Aura,336.7,497.1,47.6,1
+PROD0143,Lumio Id Beauty,Beauty,Perferendis,Vega,254.54,382.09,50.1,1
+PROD0144,KreateX Ab Beauty,Beauty,Architecto,Nova,587.01,905.61,54.3,1
+PROD0145,Nova A Beauty,Beauty,Deserunt,Aura,2188.11,3126.57,42.9,1
+PROD0146,Aura Nihil Beauty,Beauty,Ratione,Optix,2944.6,4641.78,57.6,1
+PROD0147,Nova Officiis Beauty,Beauty,Nam,Trex,2145.34,3374.12,57.3,1
+PROD0148,ZenBrand Inventore Beauty,Beauty,Ipsa,Lumio,1873.82,2543.16,35.7,1
+PROD0149,Aura Quisquam Beauty,Beauty,Vel,Solus,2600.24,3462.42,33.2,1
+PROD0150,Optix Nostrum Beauty,Beauty,Praesentium,Nova,2934.01,4265.82,45.4,1
+PROD0151,Solus Natus Beauty,Beauty,In,ZenBrand,261.87,350.77,33.9,1
+PROD0152,Solus Rem Beauty,Beauty,Occaecati,Lumio,1440.52,1817.42,26.2,1
+PROD0153,KreateX Rerum Beauty,Beauty,Odio,Solus,1249.59,1769.3,41.6,1
+PROD0154,KreateX Ipsa Beauty,Beauty,Commodi,Lumio,1302.92,1821.18,39.8,1
+PROD0155,Nova Nihil Beauty,Beauty,Eligendi,Nova,2477.73,3659.76,47.7,1
+PROD0156,Vega Molestiae Beauty,Beauty,Laborum,ZenBrand,232.58,366.5,57.6,1
+PROD0157,KreateX Nobis Beauty,Beauty,Voluptas,Optix,1002.56,1549.94,54.6,1
+PROD0158,Solus Aliquid Beauty,Beauty,Facere,KreateX,1190.6,1726.09,45,1
+PROD0159,Lumio Iure Beauty,Beauty,Aliquid,Lumio,404.68,584.29,44.4,1
+PROD0160,Nova Adipisci Beauty,Beauty,Nemo,ZenBrand,585.66,756.75,29.2,1
+PROD0161,Optix Exercitationem Sports,Sports,Libero,Optix,2084.18,3119.91,49.7,1
+PROD0162,Nova Ipsam Sports,Sports,Voluptatem,Bryte,861.13,1300.66,51,1
+PROD0163,ZenBrand Est Sports,Sports,Optio,Vega,573.04,915.73,59.8,1
+PROD0164,Trex Eius Sports,Sports,Amet,ZenBrand,2412.7,3543.37,46.9,1
+PROD0165,Bryte Repudiandae Sports,Sports,Molestiae,Nova,5990,8926.78,49,1
+PROD0166,Bryte Fugit Sports,Sports,Recusandae,ZenBrand,6967.47,8733.51,25.3,1
+PROD0167,Bryte Nobis Sports,Sports,Sint,Vega,7913.07,11229.68,41.9,1
+PROD0168,Nova Ea Sports,Sports,Officiis,Optix,2213.26,3183.64,43.8,1
+PROD0169,Solus Nulla Sports,Sports,Beatae,Bryte,2355.48,3385.13,43.7,1
+PROD0170,Trex Culpa Sports,Sports,Tempora,Lumio,6604.29,9035.1,36.8,0
+PROD0171,Vega Recusandae Sports,Sports,Totam,Aura,7624.76,9896.61,29.8,1
+PROD0172,Lumio Magnam Sports,Sports,Deserunt,Optix,771.97,1025.46,32.8,1
+PROD0173,Nova Reiciendis Sports,Sports,Voluptatem,ZenBrand,5977.06,8594.8,43.8,1
+PROD0174,Solus Modi Sports,Sports,Et,Trex,2594.11,3533.54,36.2,1
+PROD0175,ZenBrand Iste Sports,Sports,Enim,Aura,5187.78,6709.6,29.3,1
+PROD0176,Lumio Architecto Sports,Sports,Voluptate,KreateX,628.09,975.19,55.3,1
+PROD0177,Lumio Maxime Sports,Sports,Rerum,Trex,3968.25,5985.15,50.8,1
+PROD0178,Nova Omnis Sports,Sports,Accusamus,Solus,1188.8,1834.02,54.3,1
+PROD0179,ZenBrand Dolorum Sports,Sports,Maxime,Optix,7851.11,11478.91,46.2,1
+PROD0180,ZenBrand Laudantium Sports,Sports,Culpa,Bryte,3728.99,5434.17,45.7,1
+PROD0181,Lumio Dolorem Sports,Sports,Quia,Solus,3742.45,5765.01,54,1
+PROD0182,Lumio Dolorem Sports,Sports,Officiis,Aura,1498.45,2159.96,44.1,1
+PROD0183,Bryte Neque Sports,Sports,Veniam,Vega,3483.08,4402.38,26.4,1
+PROD0184,Optix Enim Sports,Sports,Nobis,Vega,7765.04,11703.06,50.7,1
+PROD0185,Vega In Sports,Sports,Ex,Bryte,7596.9,9871.56,29.9,1
+PROD0186,Bryte Beatae Books,Books,Ipsam,Aura,982.13,1358.84,38.4,1
+PROD0187,Solus Sint Books,Books,Illum,Solus,271.81,353.65,30.1,0
+PROD0188,ZenBrand Qui Books,Books,Sit,Vega,897.72,1318.66,46.9,1
+PROD0189,Lumio Ratione Books,Books,Reiciendis,Vega,604.68,897.95,48.5,1
+PROD0190,KreateX Iusto Books,Books,Similique,Nova,841.33,1254.49,49.1,1
+PROD0191,Aura Mollitia Books,Books,Laudantium,Trex,969.97,1435.77,48,1
+PROD0192,Nova Id Books,Books,Neque,ZenBrand,572.47,867.73,51.6,1
+PROD0193,Solus Unde Books,Books,Nostrum,Vega,439.4,628.8,43.1,1
+PROD0194,Bryte Expedita Books,Books,In,Solus,164.05,238.12,45.2,1
+PROD0195,Trex Iure Books,Books,Fuga,Trex,315.72,437.39,38.5,1
+PROD0196,Solus Illum Books,Books,Est,ZenBrand,588.58,783.44,33.1,1
+PROD0197,Optix Inventore Books,Books,Voluptatum,Nova,320,490.98,53.4,1
+PROD0198,Bryte Facere Books,Books,Aut,KreateX,612.37,890.11,45.4,1
+PROD0199,Nova Inventore Books,Books,Similique,ZenBrand,895.03,1292.33,44.4,1
+PROD0200,Nova Cupiditate Books,Books,Nam,Solus,370.32,540.59,46,1
