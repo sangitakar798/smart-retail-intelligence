@@ -1,0 +1,5 @@
+segment,total,churned,churn_pct
+At-Risk,143,84,58.7
+Occasional,314,0,0.0
+Premium,140,0,0.0
+Regular,403,0,0.0
